@@ -48,3 +48,35 @@ body{
     border-radius: 1rem;
     border:none ;
 }
+
+
+#new-btn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 1rem;
+    border:none ;
+
+}
+
+#msg {
+  color: #ffffc7;  
+  font-size: 5vmin;
+
+}
+
+
+.msg-container{
+    height: 30vmin;  /*we can also give it more height like 80 and add styling
+   /* display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column ;
+    gap = 4 rem;*/
+}
+
+.hide {
+    display: none;
+}
